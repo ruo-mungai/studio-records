@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/studio-records/static/css/main.0e100dbd.css",
+    "main.js": "/studio-records/static/js/main.4da41776.js",
+    "static/js/787.414103d1.chunk.js": "/studio-records/static/js/787.414103d1.chunk.js",
+    "static/media/IMG_8935.jpg": "/studio-records/static/media/IMG_8935.f1dc3903414d70aa3914.jpg",
+    "static/media/DARK BG PROME LOGO.jpg": "/studio-records/static/media/DARK BG PROME LOGO.9b1d44ade81b05c6d7f5.jpg",
+    "static/media/bootstrap-icons.woff?": "/studio-records/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/studio-records/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "index.html": "/studio-records/index.html",
+    "main.0e100dbd.css.map": "/studio-records/static/css/main.0e100dbd.css.map",
+    "main.4da41776.js.map": "/studio-records/static/js/main.4da41776.js.map",
+    "787.414103d1.chunk.js.map": "/studio-records/static/js/787.414103d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e100dbd.css",
+    "static/js/main.4da41776.js"
+  ]
+}
